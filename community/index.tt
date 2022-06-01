@@ -268,6 +268,10 @@
       <p>Moderates partitcipation on official community platforms</p>
       <a class="button -primary" href="[%root%]community/teams/moderation.html">Members &amp; Contacts</a>
     </div>
+    <p>
+      Team schedules are available on the
+      <a href="https://calendar.google.com/calendar/u/0/embed?src=b9o52fobqjak8oq8lfkhg3t0qg@group.calendar.google.com">NixOS Calendar</a>.
+    </p>
   </div>
 </section>
 
